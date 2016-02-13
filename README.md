@@ -1,3 +1,2 @@
 # google-homepage
-recreation of google's homepage
-its gonna be neat
+# http://www.theodinproject.com/web-development-101/html-css?ref=lnav
